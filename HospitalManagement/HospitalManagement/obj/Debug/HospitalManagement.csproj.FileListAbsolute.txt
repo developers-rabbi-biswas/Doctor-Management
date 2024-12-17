@@ -1,0 +1,14 @@
+E:\Project\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagement.exe.config
+E:\Project\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagement.exe
+E:\Project\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagement.pdb
+E:\Project\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.csproj.AssemblyReference.cache
+E:\Project\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.csproj.CoreCompileInputs.cache
+E:\Project\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.exe
+E:\Project\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.pdb
+C:\Users\User\Desktop\Project\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagement.exe.config
+C:\Users\User\Desktop\Project\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagement.exe
+C:\Users\User\Desktop\Project\HospitalManagement\HospitalManagement\bin\Debug\HospitalManagement.pdb
+C:\Users\User\Desktop\Project\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Project\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Project\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.exe
+C:\Users\User\Desktop\Project\HospitalManagement\HospitalManagement\obj\Debug\HospitalManagement.pdb
